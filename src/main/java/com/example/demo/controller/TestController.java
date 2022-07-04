@@ -9,7 +9,7 @@ public class TestController {
 
     @GetMapping
     public String getText () {
-        return "tuln2-test";
+        return "Nhung sing";
     }
 
 }
